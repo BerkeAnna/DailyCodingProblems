@@ -1,6 +1,6 @@
 <?php
 
-class Problem_PHP
+class Problem
 {
     public function numberList($numberArray, $k )
     {
